@@ -1,0 +1,61 @@
+[{
+        "character": "Arya",
+        "image": " ./assets/img/Arya.png"
+    },
+    {
+        "character": "Benjen",
+        "image": "./assets/img/Benjen.png"
+    },
+    {
+        "character": "Bronn",
+        "image": "./assets/img/Bronn.png"
+    },
+    {
+        "character": "Daenerys",
+        "image": "./assets/img/Daenerys.png"
+    },
+    {
+        "character": "Davos",
+        "image": "./assets/img/Davos.png"
+    },
+    {
+        "character": "Dickon",
+        "image": "./assets/img/Dickon.png"
+    },
+    {
+        "character": "Euron",
+        "image": "./assets/img/Euron.png"
+    },
+    {
+        "character": "Jaime",
+        "image": "./assets/img/Jaime.png"
+    },
+    {
+        "character": "Jon",
+        "image": "./assets/img/JonSnow.png"
+    },
+    {
+        "character": "Jorah",
+        "image": "./assets/img/Jorah.png"
+    },
+    {
+        "character": "Robb",
+        "image": "./assets/img/Robb.png"
+    },
+    {
+        "character": "Sansa",
+        "image": "./assets/img/Sansa.png"
+    },
+    {
+        "character": "TheHound",
+        "image": "./assets/img/TheHound.png"
+    },
+    {
+        "character": "Theon",
+        "image": "./assets/img/Theon.png"
+    },
+    {
+        "character": "Tormund",
+        "image": "./assets/img/Tormund.png"
+    }
+]
