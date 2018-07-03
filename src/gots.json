@@ -1,76 +1,76 @@
 [{
         "id": 1, 
         "character": "Arya",
-        "image": " ./public/img/Arya.png"
+        "image": " ./img/Arya.png"
     },
     {
         "id": 2, 
         "character": "Benjen",
-        "image": "./public/img/Benjen.png"
+        "image": "./img/Benjen.png"
     },
     {
         "id": 3, 
         "character": "Bronn",
-        "image": "./public/img/Bronn.png"
+        "image": "./img/Bronn.png"
     },
     {
         "id": 4, 
         "character": "Daenerys",
-        "image": "./public/img/Daenerys.png"
+        "image": "./img/Daenerys.png"
     },
     {
         "id": 5,
         "character": "Davos",
-        "image": "./public/img/Davos.png"
+        "image": "./img/Davos.png"
     },
     {
         "id": 6,
         "character": "Dickon",
-        "image": "./public/img/Dickon.png"
+        "image": "./img/Dickon.png"
     },
     {
         "id": 7,
         "character": "Euron",
-        "image": "./public/img/Euron.png"
+        "image": "./img/Euron.png"
     },
     {
         "id": 8,
         "character": "Jaime",
-        "image": "./public/img/Jaime.png"
+        "image": "./img/Jaime.png"
     },
     {
         "id": 9,
         "character": "Jon",
-        "image": "./public/img/JonSnow.png"
+        "image": "./img/JonSnow.png"
     },
     {
         "id": 10,
         "character": "Jorah",
-        "image": "./public/img/Jorah.png"
+        "image": "./img/Jorah.png"
     },
     {
         "id": 11,
         "character": "Robb",
-        "image": "./public/img/Robb.png"
+        "image": "./img/Robb.png"
     },
     {
         "id": 12,
         "character": "Sansa",
-        "image": "./public/img/Sansa.png"
+        "image": "./img/Sansa.png"
     },
     {
         "id": 13,
         "character": "TheHound",
-        "image": "./public/img/TheHound.png"
+        "image": "./img/TheHound.png"
     },
     {
         "id": 14,
         "character": "Theon",
-        "image": "./public/img/Theon.png"
+        "image": "./img/Theon.png"
     },
     {
         "id": 15,
         "character": "Tormund",
-        "image": "./public/img/Tormund.png"
+        "image": "./img/Tormund.png"
     }
 ]
