@@ -1,61 +1,61 @@
 [{
         "character": "Arya",
-        "image": " ./assets/img/Arya.png"
+        "image": " ./public/img/Arya.png"
     },
     {
         "character": "Benjen",
-        "image": "./assets/img/Benjen.png"
+        "image": "./public/img/Benjen.png"
     },
     {
         "character": "Bronn",
-        "image": "./assets/img/Bronn.png"
+        "image": "./public/img/Bronn.png"
     },
     {
         "character": "Daenerys",
-        "image": "./assets/img/Daenerys.png"
+        "image": "./public/img/Daenerys.png"
     },
     {
         "character": "Davos",
-        "image": "./assets/img/Davos.png"
+        "image": "./public/img/Davos.png"
     },
     {
         "character": "Dickon",
-        "image": "./assets/img/Dickon.png"
+        "image": "./public/img/Dickon.png"
     },
     {
         "character": "Euron",
-        "image": "./assets/img/Euron.png"
+        "image": "./public/img/Euron.png"
     },
     {
         "character": "Jaime",
-        "image": "./assets/img/Jaime.png"
+        "image": "./public/img/Jaime.png"
     },
     {
         "character": "Jon",
-        "image": "./assets/img/JonSnow.png"
+        "image": "./public/img/JonSnow.png"
     },
     {
         "character": "Jorah",
-        "image": "./assets/img/Jorah.png"
+        "image": "./public/img/Jorah.png"
     },
     {
         "character": "Robb",
-        "image": "./assets/img/Robb.png"
+        "image": "./public/img/Robb.png"
     },
     {
         "character": "Sansa",
-        "image": "./assets/img/Sansa.png"
+        "image": "./public/img/Sansa.png"
     },
     {
         "character": "TheHound",
-        "image": "./assets/img/TheHound.png"
+        "image": "./public/img/TheHound.png"
     },
     {
         "character": "Theon",
-        "image": "./assets/img/Theon.png"
+        "image": "./public/img/Theon.png"
     },
     {
         "character": "Tormund",
-        "image": "./assets/img/Tormund.png"
+        "image": "./public/img/Tormund.png"
     }
 ]
