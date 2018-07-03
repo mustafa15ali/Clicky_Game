@@ -69,7 +69,7 @@ class App extends Component {
                         <Card
                             character={got.character}
                             image={got.image}
-                            selectGOT={this.selectGot} 
+                            selectGot={this.selectGot} 
                             curScore={this.state.curScore}
                         />
                     ))
