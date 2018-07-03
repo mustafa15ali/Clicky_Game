@@ -33,7 +33,7 @@ class App extends Component {
         if(findGot === undefined) {
             // failure to select a new Got
             this.setState({ 
-                message: "You have LOST the Game of Thrones!",
+                message: "You guessed incorrectly!",
                 topScore: (this.state.curScore > this.state.topScore) ? this.state.curScore : this.state.topScore,
                 curScore: 0,
                 gots: gots,
@@ -45,7 +45,7 @@ class App extends Component {
             const newgots = this.state.unselectedgots.filter(item => item.character !== character);
             
             this.setState({ 
-                message: "You have WON the Game of Thrones!",
+                message: "You guessed correctly!",
                 curScore: this.state.curScore + 1,
                 gots: gots,
                 unselectedgots: newgots
