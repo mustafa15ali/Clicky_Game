@@ -1,6 +1,6 @@
 [{
         "character": "Arya",
-        "image": " ../assets/img/Arya.png"
+        "image": " ./assets/img/Arya.png"
     },
     {
         "character": "Benjen",
